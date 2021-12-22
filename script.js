@@ -4,8 +4,10 @@
 var request=new XMLHttpRequest();
 
 // 2. Open my request connection
-request.open('GET','https://jsonplaceholder.typicode.com/posts');
+//request.open('GET','https://jsonplaceholder.typicode.com/posts');
 
+request.open('GET','http://api.countrylayer.com/v2/language/deu?access_key=e446d8ff943f8ea0776d9998c727d53a');
+    
 // 3. Sending a request
 request.send();
 
