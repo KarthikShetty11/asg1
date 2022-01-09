@@ -1,0 +1,42 @@
+
+
+.box {
+    width: 700px;
+    height: 250px;
+    background-color: red;
+    padding: 20px 30px;
+    margin: 50px 30px;
+    display: flex;
+  }
+
+  .radiusBox {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    padding: 20px 30px;
+    margin: 50px 30px;
+    border-radius: 20px;
+    
+  }
+
+  .box2{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    padding: 20px 30px;
+    margin: 50px 30px;
+    
+  }
+
+  .circle{
+    
+        width: 100px;
+        height: 100px;
+        background: orange;
+        padding: 20px 30px;
+        margin: 50px 30px;
+        border-radius: 50%
+        
+  }
+
+
